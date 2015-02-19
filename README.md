@@ -1,2 +1,2 @@
-# codesnippets
-A collection of proof of concepts and other shenanigans
+# Proof of concepts
+A collection of proof of concepts and other shenanigans.
